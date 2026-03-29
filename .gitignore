@@ -6,3 +6,7 @@ outputs
 
 # モデルファイル
 *.pth
+
+# ONNX変換
+mmdeploy
+work_dir
